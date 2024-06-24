@@ -1,4 +1,4 @@
-
+![logo](https://github.com/khuzaima2182/Document-Summarizer-using-PaLM2-and-Stream-Lit/blob/main/streamlit%20input.png)
 <h1>Document Summarizer</h1>
 <h3>1- Firstly we have to upload the pdf File</h3>
 <h3>2- Then Pdf Data will be fetched</h3>
